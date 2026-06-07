@@ -39,13 +39,13 @@ Worked on real-world web features, collaborated with the team, and applied my de
 ### 🌐 Web Development
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project Name](https://github.com/snehaa1703/repo) | Short description | HTML, CSS, JS |
-| [Project Name](https://github.com/snehaa1703/repo) | Short description | React, Node |
+| [Splitex](https://github.com/snehaa1703/repo) | Short description | HTML, CSS, JS |
+| [Photo gallery](https://github.com/snehaa1703/repo) | Short description | React, Node |
 
 ### 🧩 DSA Practice
 | Repo | Description |
 |------|-------------|
-| [DSA Problems](https://leetcode.com/u/snehaag/) | Solutions to coding challenges in C++ / Java |
+| [Leetcode Profile](https://leetcode.com/u/snehaag/) | Solutions to coding challenges in C++ / Java |
 
 ### 🤖 AI / ML
 | Project | Description |
