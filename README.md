@@ -45,7 +45,7 @@ Worked on real-world web features, collaborated with the team, and applied my de
 ### 🧩 DSA Practice
 | Repo | Description |
 |------|-------------|
-| [DSA Problems](https://github.com/snehaa1703/repo) | Solutions to coding challenges in C++ / Java |
+| [DSA Problems](https://leetcode.com/u/snehaag/) | Solutions to coding challenges in C++ / Java |
 
 ### 🤖 AI / ML
 | Project | Description |
