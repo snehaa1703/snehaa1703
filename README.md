@@ -40,7 +40,7 @@ Worked on real-world web features, collaborated with the team, and applied my de
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Personal Blof](https://github.com/FZTPL/python-internship-sneha/tree/main/personalblog) |Flask-powered personal blog with admin login, article management, and JSON-based storage — built to learn full-stack web development fundamentals. | HTML, CSS, JS |
-| [Photo gallery](https://github.com/snehaa1703/repo) | A sleek photo gallery app built with React — browse, view, and explore images with a clean UI powered by components and hooks. | React, Node |
+| [Photo gallery](https://github.com/snehaa1703/Photo-gallary) | A sleek photo gallery app built with React — browse, view, and explore images with a clean UI powered by components and hooks. | React, Node |
 
 ### 🧩 DSA Practice
 | Repo | Description |
