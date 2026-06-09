@@ -39,7 +39,7 @@ Worked on real-world web features, collaborated with the team, and applied my de
 ### 🌐 Web Development
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Splitex](https://github.com/snehaa1703/repo) | Short description | HTML, CSS, JS |
+| [Personal Blof](https://github.com/snehaa1703/repo) |Flask-powered personal blog with admin login, article management, and JSON-based storage — built to learn full-stack web development fundamentals. | HTML, CSS, JS |
 | [Photo gallery](https://github.com/snehaa1703/repo) | Short description | React, Node |
 
 ### 🧩 DSA Practice
