@@ -50,7 +50,7 @@ Worked on real-world web features, collaborated with the team, and applied my de
 ### 🤖 AI / ML
 | Project | Description |
 |---------|-------------|
-| [AI-interview-stimulator]([https://github.com/snehaa1703/repo](https://github.com/snehaa1703/AI-interviewer-stimulator)) | A full-stack AI-powered interview simulator built with React, FastAPI, and Google Gemini. Practice technical interviews with AI-generated questions, get real-time scoring and feedback, and view a detailed performance summary.|
+| [AI-interview-stimulator](https://github.com/FZTPL/python-internship-sneha/tree/main/ai-interview-stimulator) | A full-stack AI-powered interview simulator built with React, FastAPI, and Google Gemini. Practice technical interviews with AI-generated questions, get real-time scoring and feedback, and view a detailed performance summary.|
 
 ---
 
